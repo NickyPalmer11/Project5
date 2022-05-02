@@ -1,3 +1,4 @@
+#By Matthew Ippolito and Nicholas Palmer (mri6hfb and np6mec)
 import math
 
 
