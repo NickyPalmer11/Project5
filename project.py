@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+##By Matthew Ippolito and Nicholas Palmer (mri6hfb and np6mec)
 
 import random
 import sys
